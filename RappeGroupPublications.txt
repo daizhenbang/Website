@@ -1,0 +1,2119 @@
+========================================================================
+R008
+Ferroelectric Phase Transition in Individual Single-Crystalline BaTiO3
+Nanowires
+RGA:    AMK, IG, AMR
+Status: published
+BICO: (none)
+Started:11/27/05
+Updated:04/09/06
+Journal:Nano Letters
+Notes:Spanier06p735.pdf
+========================================================================
+R012
+Adsorbate-Adsorbate Interactions and Chemisorption at Different
+Coverage Studied by Accurate Ab initio calculations: CO on transition
+metal surfaces
+RGA:    SEM, IG, AMR
+Status: published
+BICO:   (none)
+Started:08/10/05
+Updated:01/25/06
+Journal:JPCB
+Notes:  Mason06p3816.pdf
+========================================================================
+R009
+Stabilization of Monodomain Polarization in Ultrathin PbTiO3 Films
+RGA:    AMK, IG, AMR
+Status: published
+BICO:   (none)
+Started:11/04/04
+Updated: 4/09/06
+Journal:PRL
+Notes: Fong06p127601.pdf
+========================================================================
+R014
+The Effect of Symmetry Lowering on the Dielectric Response of BaZrO$_3$
+RGA:    JB, IG, AMR
+Status: published
+BICO:   (none)
+Started:1/18/06
+Updated:05/23/06
+Journal:PRB Rapid Comm
+Notes:  Bennett06p180102R.pdf
+========================================================================
+R010
+Short-circuit boundary conditions in ferroelectric PbTiO_3 thin films
+RGA:    AMK, NS, AMR
+Status: published
+BICO:   (none)
+Started:04/01/05
+Updated:9/01/06
+Journal:PRB
+Notes:Kolpak06p054112.pdf
+========================================================================
+R023
+Erratum: Ferroelectricity in ultrathin perovskite films
+RGA:  NS, AMK, AMR
+Status: published
+BICO:  (none)
+Started:  08/03/06
+Updated:  08/25/06
+Journal: PRB
+Notes:  Sai06p059901.pdf
+========================================================================
+R001  
+Nonmonotonic $T_c$ trends in Bi-based ferroelectric
+perovskite solid solutions
+RGA:	IG, AMR
+Status:	published
+BICO:	(none)
+Started:11/28/05
+Updated:1/19/07
+Journal: PRL
+Notes:  Grinberg07p037603.pdf
+========================================================================
+R015
+Electronic quantum Monte Carlo calculations of energies and atomic
+forces for diatomic and polyatomic molecules
+RGA:    MWL, AMR
+Status: book published.
+BICO:   (none)
+Started: 1/25/06
+Updated: 4/09/06
+Journal: conf proc
+Notes:  http://www.oup.com/us/catalog/general/subject/Physics/QuantumPhysics/?view=usa&ci=9780841274167
+
+Advances in Quantum Monte Carlo
+Edited by James B. Anderson and Stuart M. Rothstein
+ACS Symposium Series, No. 953
+========================================================================
+R019
+New Ferroelectrics for Naval SONAR and Modeling of Nanoscale
+Ferroelectric Nonvolatile Memory Materials
+RGA:  AMK, IG, AMR
+Status:  in press
+BICO:  (none)
+Started:  05/06/06
+Updated:  09/21/06
+Journal: IEEE PUBLICATION TITLE: DoD High Performance Computing
+ Modernization Program 2006 Users Group Conference (DoD HPCMP UGC
+ 2006)
+Notes:  06HPCC-5.pdf sent to Lisa Powell by IG.  (Added intro paragraph.)
+Copyright form sent in by AMR and SH.  Perhaps all done.
+~/PaperArchiv/Kolpak06p205.pdf
+========================================================================
+R022
+BaCe_{1-x}Pd_xO_{3-\delta} (0\le x\le 0.1):  Redox controlled Ingress
+and Egress of Palladium in a Perovskite
+RGA:  JWB, AMR
+Status: published
+BICO:  (none)
+Started:  08/03/06
+Updated:  2/21/07
+Journal: Chem. Mater.
+Notes:   Li07p1418.pdf
+========================================================================
+R013
+Structure and Polarization in the high $T_c$ 
+ferroelectric Bi(Zn,Ti)O$_3$-PbTiO$_3$ solid solutions
+RGA:    IG, SEM,  AMR and PKD
+Status: published
+BICO:  (none)
+Started:01/09/06
+Updated:03/5/07
+Journal: PRL
+Notes:  Grinberg07p107601.pdf
+========================================================================
+R004
+Polarization effects on the surface chemistry of PbTiO3-supported Pt films
+RGA:    AMK, IG, AMR
+Status: published
+BICO:	(none)
+Started:04/04/05
+Updated: 4/19/07
+Journal:PRL
+Notes:  Kolpak07p166101.pdf
+========================================================================
+R005
+First principles calculations, crystal chemistry and properties of
+ferroelectric perovskites
+RGA:    IG, AMR
+Status: published
+BICO: (none)
+Started:12/15/05
+Updated:05/31/07
+Journal:Phase transitions
+Notes:  Grinberg07p351.pdf
+========================================================================
+R021
+A Pd-doped perovskite catalyst, BaCe_{1-x}Pd_xO3-_\delta for CO oxidation
+RGA:  JWB, AMR
+Status: published
+BICO:  (none)
+Started:  07/25/06
+Updated:  07/03/07
+Journal: J. Catalysis
+Notes:  Singh07p347.pdf
+========================================================================
+R003 published
+Nucleation and growth mechanism of ferroelectric domain-wall motion
+RGA:	YHS, IG, IWC, AMR
+Status: (published)
+BICO:	(none)
+Started:09/13/05
+Updated: 10/18/2007
+Journal: Nature
+Notes:   Shin07p881.pdf and Shin07p881-s1.pdf
+========================================================================
+R030 published
+Order-disorder characters of PbTiO$_{3}$
+RGA: YHS, IG, AMR
+Status: (published)
+BICO:	(none)
+Started: 02/20/2007
+Updated: 12/12/2007
+Journal: Journal of Physics: Condensed Matter
+Notes: Shin08p015224.pdf
+========================================================================
+R033 published
+Force calculation of polyatomic molecules in quantum Monte Carlo using
+Pulay's corrections
+RGA: MWL, SVL, AMR
+Status: (published)
+BICO: (none)
+Started: 05/29/2007
+Updated: 12/20/2007
+Journal: Mol Phys Pulay issue
+Notes: Lee07p2493.pdf
+========================================================================
+R016 published
+Relationship between local structure and relaxor behavior in perovskite oxides
+RGA:  IG, AMR
+Status: (published)
+BICO:  (none)
+Started:  03/03/06
+Updated:  12/27/07
+Journal: PRL LU10305
+Notes:  Grinberg07p267603.pdf
+========================================================================
+R034 
+Modeling of materials for Naval SONAR, pollution control and
+Nonvolatile Memory application
+RGA: IG, AMK, YHS, AMR
+Status:  (published)
+BICO: (none)
+Started:  06/01/2007
+Updated:  02/02/2007
+Journal:  DoD High Performance Computing Modernization Program Users Group
+	  Conference, 2007 (IEEE Proceeding)  pp 177-184.
+Notes:  Grinberg07p177.pdf.
+========================================================================
+R024
+Optimized norm-conserving Hartree-Fock pseudopotentials for plane-wave calculations
+RGA:  AMR
+Status:  (published)
+BICO: (none)
+Started:  09/21/06
+Updated:  02/14/08
+Journal: Phys. Rev. B 
+Notes:BH10480  Al-Saidi08p075112.pdf
+========================================================================
+R006
+Orbital-specific model of chemisorption on metals
+RGA:    SEM, IG, AMR
+Status: (published)
+BICO: (none)
+Started:11/01/05
+Updated:02/14/08
+Journal:JPhysChem C
+Notes: Mason08p1963.pdf
+========================================================================
+R031 published
+Bond-valence model of ferroelectric PbTiO$_3$
+RGA: YHS, AMR
+Status: (published on April 07)
+BICO: (none)
+Started: 02/20/2007
+Updated: 04/11/2008
+Journal: Journal of the Korean Physical Society
+Notes: Proceeding paper of ACCMS-4 Shin08p1206.pdf
+========================================================================
+R037
+Direct in situ determination of the polarization dependence of physisorption 
+on ferroelectric surfaces
+RGA: AMK, AMR
+Status:  (published on 11 May 2008)
+BICO:  (none)
+Started: 07/03/2007
+Updated: 05/11/2008
+Journal: Nature Materials
+Notes:  Li08p473.pdf (page number not assigned yet)
+========================================================================
+R042
+First principles study of three-component SrTiO3/BaTiO3/PbTiO3
+ferroelectric superlattices
+RGA: AMK, AMR  (with Bristowe)
+Status:  (published online March 2008)
+BICO:  (none)
+Started: 08/11/2007
+Updated: 05/13/2008
+Journal: conference paper
+Notes:  Shah08p3750.pdf
+========================================================================
+R032
+Influence of Ferroelectric Polarization on the Equilibrium Stoichiometry
+of Lithium Niobate (0001) Surfaces
+RGA: SVL, AMR
+Status: (published June 27 2008)
+BICO: (none)
+Started: 04/08/2007
+Updated: 06/27/2008
+Journal: PRL
+Notes: Levchenko08p256101.pdf
+========================================================================
+R011
+Nonmonotonic composition dependence 
+of the dielectric response of Ba(1-x)Ca(x)ZrO3
+RGA:    JWB, IG, AMR
+Status: (published July 23 2008)
+BICO: (none)
+Started:12/01/05
+Updated:07/23/08
+Journal:Chem Mat.
+Notes: Bennett08p5134.pdf and Bennett08p5134-s1.pdf
+========================================================================
+R035
+Evolution of the structure and thermodynamic 
+Stability of the BaTiO3 (001) surface
+RGA: AMK, AMR
+Status:  (published July 18 2008)
+BICO: (none)
+Started: 07/03/2007
+Updated: 07/18/2008
+Journal: PRL
+Notes:  N11545 Kolpak08p036102.pdf and Kolpak08p036102-s1.pdf 
+========================================================================
+R048
+Modeling of Materials for Naval SONAR, Pollution Control and
+Nonvolatile Memory Application
+RGA: JWB, YHS, IG, AMR
+Status:  (published 2008)
+BICO: (none)
+Started: 05/31/2008
+Updated: 12/16/2008
+Journal: IEEE Proceedings
+Notes:  Bennett08p214.pdf
+========================================================================
+R026
+New Highly Polar Semiconductor Ferroelectrics through $d^8$
+Cation-O Vacancy Substitution into PbTiO3: A Theoretical Study
+RGA: JWB, IG, AMR
+Status: published
+BICO: (none)
+Started: 11/27/2006
+Updated: 11/22/2008
+Journal: JACS
+Notes: Bennett08p17409.pdf
+========================================================================
+R028
+Reversible Chemical Switching of a Ferroelectric Film
+RGA: AMK, AMR
+Status: published
+BICO: (none)
+Started: 01/16/2007
+Updated: 01/26/2009
+Journal: PRL
+Notes: Wang09p047601.pdf and Hlinka09p8.pdf
+========================================================================
+R043
+First principles investigation of the highly tetragonal ferroelectric material Bi(Zn,Ti)O3
+RGA:  TQ, IG, AMR
+Status:  publised
+BICO: (none)
+Started:  01/23/2008
+Updated:  03/24/2009
+Journal:  PRB
+Notes:  Qi09p094114.pdf
+========================================================================
+R002
+Spontaneous Formation of Dipolar Metal Nanoclusters
+RGA:	EAS, SEM, VRC, AMR
+Status: published
+BICO: (none)
+Started:12/13/05
+Updated:04/17/09
+Journal: JPCA
+Notes:  Mason09p4134.pdf
+========================================================================
+R051
+Effect of Substituting S for O: the sulfide Perovskite BaZrS3
+investigated with density functional theory
+RGA: JWB, IG, AMR
+Status: published online 06/09/2009
+BICO: (none)
+Started: 07/21/2008
+Updated: 06/09/2009
+Journal: PRB
+Notes: Bennett09p235115.pdf.
+========================================================================
+R027
+Collective coherent control:  synchronization of polarization in 
+ferroelectric PbTiO3 by shaped THz fields
+RGA: TQ, YHS, AMR
+Status: published online /06/19/2009
+BICO: (none)
+Started: 01/16/2007
+Updated: 06/19/2009
+Journal: PRL
+Notes: Qi09p247603.pdf
+========================================================================
+R047
+Computational Study of the Self-Initiation Mechanism in 
+Thermal Polymerization of Methyl Acrylate
+RGA: MWL, AMR (Sriraj)
+Status: published online Sep 11, 2009
+BICO: (none)
+Started: 04/22/2008
+Updated: 09/11/2009
+Journal: J. Phys. Chem. A
+Notes: Srinivasan09p10787.pdf
+========================================================================
+R059
+Hybrid density functional calculations of the band gap of Ga_xIn_{1-x}N
+RGA: EJW, AMR (with Xifan Wu)
+Status: published Sep 2, 2009
+BICO: (none)
+Started: 06/04/2009
+Updated: 09/02/2009
+Journal: PRB
+Notes: Wu09p115201.pdf
+========================================================================
+R039
+Molecular Dynamics Study of Dielectric Response in a Relaxor Ferroelectric
+RGA: IG, AMR
+Status:  published Nov 5, 2009
+BICO:  (none)
+Started: 07/03/2007
+Updated: 11/07/2009
+Journal: PRL
+Notes:  Grinberg09p197601.pdf
+========================================================================
+R072
+Self-Initiation Mechanism in Spontaneous Thermal Polymerization of
+Ethyl and n-Butyl Acrylate: a Theoretical Study
+RGA: SS, MWL, AMR
+Status: published 14 July 2010
+BICO: (none)
+Started: 03/01/2010
+Updated: 08/08/2010
+Journal: JPCA
+Notes: Srinivasan10p7975.pdf
+========================================================================
+R058
+Correlated polarization switching in the proximity of a 180&deg domain wall
+RGA: IG, AMR
+Status: published 27 July 2010
+BICO: (none)
+Started: 05/19/2009
+Updated: 08/08/2010
+Journal: PRB
+Notes:  Aravind10p024111.pdf
+=======================================================================
+R061
+Density-functional study of PbTiO3 nano-capacitors with Pt and Au electrodes
+RGA: WAS, AMR
+Status: published 4 Oct 2010
+BICO: (none)
+Started:07/29/2009
+Updated:10/04/2010
+Journal: PRB
+Notes: Al-Saidi10p155304.pdf
+=======================================================================
+R069
+Correlations between tetragonality, polarization, and ionic
+displacement in PbTiO3-derived ferroelectric perovskite solid
+solutions
+RGA: TQ, IG, AMR
+Status: published 15 Oct 2010
+BICO: (none)
+Started: 08/20/2009
+Updated: 10/15/2010
+Journal: PRB 
+Notes: Qi10p134113.pdf
+=======================================================================
+R055
+New Prospects for High-Performance SONAR, Chemical Sensor and
+Communication Device Materials
+RGA: TQ, SVL, JWB, IG, AMR
+Status:  (published 2009)
+BICO: (none)
+Started: 04/21/2009
+Updated: 05/07/2010
+Journal: IEEE Proceedings
+Notes:  Qi09p197.pdf
+=======================================================================
+R053
+Pb-free semiconductor ferroelectrics: 
+A theoretical study of Pd-substituted Ba(Ti_{1-x}Ce_{x})O_{3} solid solutions
+RGA: JWB, IG, AMR (Davies)
+Status: (published 10 Nov 2010)
+BICO: (none)
+Started: 12/18/2008
+Updated: 11/10/2010
+Journal: Phys. Rev. B.
+Notes: Bennett10p181406.pdf
+========================================================================
+R073
+Computational Evidence to Self-Initiation in Spontaneous
+High-Temperature Polymerization of Methyl Methacrylate
+RGA: SS, AMR
+Status: (published 25 Jan 2011)
+BICO: (none)
+Started: 03/03/2010
+Updated: 01/25/2011
+Journal: JPCA
+Notes:  Srinivasan11p1125.pdf
+=======================================================================
+R060
+Pb-free ferroelectrics investigated with density functional theory:
+SnAl1/2 Nb1/2 O3 perovskites
+RGA: JWB, IG, AMR
+Status: (published 26 Apr 2011)
+BICO: (none)
+Started:07/24/2009
+Updated:04/26/2011
+Journal:PRB
+Notes: Bennett11p1441112.pdf
+=======================================================================
+R070
+Post density functional theoretical studies of highly polar semiconductive 
+Pb(Ti_{1-x}Ni_{x})O_{3-x} solid solutions: Effects of cation arrangement on 
+band gap
+RGA: GYG, JWB, HT, AMR
+Status: (published 18 May 2011)
+BICO: (none)
+Started: 01/26/2010
+Updated: 05/18/2011
+Journal: PRB
+Notes: Gou11p205115.pdf Phys. Rev. B 83, 205115 (2011)
+=======================================================================
+R065
+Band-gap engineering via local environment in complex oxides
+RGA: TQ, IG, AMR
+Status: (published 24 June 2011)
+BICO: (none)
+Started: 02/01/2009
+Updated: 06/24/2011
+Journal: PRB
+Notes: Qi11p224108.pdf Phys. Rev. B 83, 224108 (2011)
+=======================================================================
+R074
+New Prospects for High-Performance Storage Media, Piezoelectric and Solar
+Energy Device Materials
+RGA: TQ, JWB, IG, AMR (YHS, KLY, KAN)
+Status: (published; received at Penn July 26, 2011; says 2010)
+BICO: (none)
+Started: 05/05/2010
+Updated: 07/26/2011
+Journal: UGC
+Notes: Qi10p249.pdf
+=======================================================================
+R075
+Polarization-dependence of palladium deposition on ferroelectric
+   LiNbO3 (0001)
+RGA: SCK, MLRS, AMR
+Status: (published 12 August 2011)
+BICO:  (none)
+Started: 07/12/2010
+Updated: 08/12/2011
+Journal: PRL
+Notes:  Kim11p076102.pdf and Kim11p076102-s1.pdf PRL 107, 076102 (2011).
+=======================================================================
+R085
+Theoretical investigation of the evolution of the topological phase of
+Bi2Se3 under mechanical strain
+RGA: SMY, SC, AMR (Walter, Kane, Mele)
+Status: (published 19 August 2011)
+BICO:  (none)
+Started: 02/18/2011
+Updated: 08/19/2011
+Journal: PRB (editor's choice)
+Notes: Young11p085106.pdf PRB 84, 085106 (2011).
+=======================================================================
+R080
+Lattice normal modes and electronic properties of the correlated metal LaNiO3
+RGA: GYG, IG, AMR (James Rondinelli)
+Status: (published 3 October 2011)
+BICO:  (none)
+Started: 12/13/2010
+Updated: 10/03/2011
+Journal: PRB
+Notes: Gou11p144101.pdf PRB 84, 144101 (2011).
+=======================================================================
+R079
+Multiple dielectric transitions in the PbTiO3-Bi(Zn1/2Ti1/2)O3-Bi(Mg1/2Ti1/2)O3
+system
+RGA: IG, AMR (Dave Stein, Peter Davies)
+Status: (published 11 October 2011)
+BICO:(none)
+Started: 11/19/2010
+Updated: 10/11/2011
+Journal: APL
+Notes: Stein11p074110.pdf APL 110, 074110 (2011).
+=======================================================================
+R088
+Growth of Hexagonal Shape Graphene Flakes with Zigzag Edges
+RGA: SCK, AMR (CJohnson, Zhengtang Luo)
+Status: (published 15 October 2011)
+BICO:  (none)
+Started: 05/11/2011
+Updated: 10/18/2011
+Journal: ACS nano
+Notes: Luo11p9154.pdf  ACS Nano 5, 9154 (2011).
+=======================================================================
+R067
+First-principles Study of Band Gap Engineering via Oxygen Vacancy Doping in  Perovskite ABB'O3 Solid Solutions
+RGA: TQ, MTC, SCK, JWB, IG, AMR 
+Status: (published 15 December 2011)
+BICO: (none)
+Started: 10/28/2009
+Updated: 12/15/2011
+Journal: PRB
+Notes: Qi11p245206.pdf PRB 84, 245206 (2011).
+=======================================================================
+R086
+Macroscopic Mechanistic Modeling and Optimization of a Self-Initiated
+High-Temperature Polymerization Reactor
+RGA:  AMR (Masoud Soroush)
+Status (published 2011)
+BICO:  (none)
+Journal:  IEEE Conference Proceedings
+Notes:  Rier11p3071.pdf 3071-6 (2011).
+=======================================================================
+R090
+Studies of Perovskite Materials for High-Performance Piezoelectrics
+and Non-Volatile Memory
+RGA: TQ, JWB, WAS, IG, AMR
+Status: (published in 2012)
+BICO:  (none)
+Started: 05/30/2011
+Updated: 04/17/2013
+Journal: UGC
+Notes: Qi11p459.pdf 
+=======================================================================
+R081
+Ultrafast photovoltaic response in ferroelectric nanolayers
+RGA: TQ, IG, AMR, SMY (Aaron Lindenberg)
+Status: (published 23 February 2012) 
+BICO:  (none)
+Started: 12/14/2010
+Updated: 02/23/2012
+Journal: PRL
+Notes: Daranciang12p087601.pdf PRL 108, 087601 (2012).
+=======================================================================
+R096
+Dirac semimetal in three dimensions
+RGA: SMY, AMR (Saad, Kane, Mele)
+Status: (published 6 April 2012)
+BICO:  (none)
+Started: 10/18/2011
+Updated: 04/06/2012
+Journal: PRL
+Notes:  Young12p140405.pdf PRL 108, 140405 (2012).
+=======================================================================
+R040
+Rigorous definition of oxidation states of ions in solids
+RGA: LJ, SVL, AMR
+Status: (published 19 April 2012)
+BICO:  (none)
+Started: 09/19/2009
+Updated: 04/19/2012
+Journal: PRL
+Notes:  Jiang12p166403.pdf PRL 108, 166403 (2012).
+========================================================================
+R092
+Computational Study of Cyclohexanone-mediated Initiation Mechanism In
+Thermal Polymerization of Methyl Acrylate and Methyl Methacrylate
+RGA: SL, AMR (and Masoud Soroush and Sriraj Srinivasan)
+Status:  (published 1 May 2012)
+BICO:   (none)
+Started: 08/08/2011
+Updated: 05/01/2012
+Journal: JPCA
+Notes: Liu12p5337.pdf JPCA 116, 5337 (2012).
+=======================================================================
+R071
+Stabilization of highly-polarized PbTiO$_{3}$ nanocapacitors due to in-plane symmetry breaking at the interface
+RGA: MAMP, IG, AMK, SVL, CP, AMR
+Status: (published 7 June 2012)
+BICO: (none)
+Started: 02/18/2010
+Updated: 06/07/2012
+Journal: PRB
+Notes: Mendez-Polanco12p214107.pdf, PRB 85, 214107 (2012).
+=======================================================================
+R102
+Prediction of dielectric dispersion for lead based perovskites and
+study of local dielectric response in
+0.75Pb(Mg$_{1/3}$Nb$_{2/3}$)O$_3$-0.25PbTiO$_3$
+RGA: IG, HT, YHS, AMR 
+Status: (published 15 June 2012)
+BICO: (none)
+Started: 02/24/2012
+Updated: 06/15/2012
+Journal:  J. Advanced Dielectrics
+Notes: Grinberg12p1241009.pdf
+=======================================================================
+R097
+Kinetics of palladium particles on LiNbO3:  an origin of the polarization-
+dependent catalysis
+RGA: SCK, MRS, AMR
+Status: (published 2012)
+BICO: (none)
+Started: 10/18/2011
+Updated: 01/30/2012
+Journal: MRS Symp. Proc. Vol 1397.
+Notes:  Kim12p1.pdf
+========================================================================
+R084
+First Principles Calculation of the Shift Current Photovoltaic Effect in Ferroelectrics
+RGA: SMY, AMR
+Status: (published 12 September 2012)
+BICO:  (none)
+Started: 01/05/2011
+Updated: 09/12/2012
+Journal: PRL
+Notes: LG13694 Young12p116601.pdf PRL 109, 116601 (2012).
+=======================================================================
+R098
+First principles calculation of the bulk photovoltaic effect in bismuth ferrite
+RGA: SMY, FZ, AMR
+Status: (published 4 December 2012)
+BICO: (none)
+Started: 02/14/2012
+Updated: 12/04/2012
+Journal: PRL
+Notes: Young12p236601.pdf, PRL 109, 236601 (2012).
+========================================================================
+R104
+Atomic and Electronic Structure of the BaTiO$_3$(001)
+$(\sqrt 5 \times \sqrt 5)R26.6^{\circ}$ Surface Reconstruction
+RGA: JMPM, WAS, EM, DB, AMR
+Status: (published 20 December 2012)
+BICO: (none)
+Started: 04/11/2012
+Updated: 12/27/2012
+Journal:PRL
+Notes: Martirez12p256802.pdf, PRL 109, 256802 (2012)
+========================================================================
+R107
+HPCMO UGC paper
+RGA: LJ, MAMP, IG, SVL, AMK, AMR
+Status: (published spring 2013)
+BICO: (none)
+Started: 06/10/2012
+Updated: 04/17/2013
+Journal: UGC
+Notes: Jiang12p137.pdf
+=======================================================================
+R100
+Spin texture on the Fermi surface of tensile-strained HgTe
+RGA: SMY, DC, AMR (with Saad, Jeffrey Teo, Charlie Kane, Gene Mele)
+Status: (published 3 January 2013)
+BICO: (none)
+Started: 04/11/2012
+Updated: 01/03/2013
+Journal:PRB
+Notes: Zaheer13p045202.pdf, PRB 87, 045202 (2013)
+========================================================================
+R105
+Prediction of a Linear Spin Bulk Photovoltaic Effect in Antiferromagnets
+RGA: SMY, FZ, AMR
+Status: (published 31 Jan 2013)
+BICO: (none)
+Started: 04/29/2012
+Updated: 01/31/2013
+Journal: PRL
+Notes: Young13p057201.pdf, PRL 110, 057201 (2013)
+=======================================================================
+R109 
+Development of a bond-valence based interatomic potential for BiFeO3 for accurate molecular dynamics simulations
+RGA: SL, IG, AMR
+Status:  (published 12 Feb 2013)
+BICO: (none)
+Started: 07/20/2012
+Updated: 02/12/2013
+Journal: JPCM Fast Track Communication  
+Notes:  Liu13p102202.pdf, J. Phys. Cond. Matt. 25, 102202 (2013)
+=======================================================================
+R054
+Anisotropic Local Correlations and Dynamics in a Relaxor
+RGA: HT, IG, AMR
+Status: (published 5 April 2013)
+BICO: (none)
+Started: 01/20/2009
+Updated: 04/05/2013
+Journal: PRL
+Notes: Takenaka13p147602.pdf, PRL 110,147602(2013), arXiv:1212.0867
+=======================================================================
+R093
+Computational Study of Chain Transfer to Monomer Reactions in High-Temperature Polymerization of Alkyl Acrylates
+RGA: NM, SL, AMR (and Masoud Soroush and Sriraj Srinivasan)
+Status: (published 13 Feb 2013)
+BICO:  (none)
+Started: 08/08/2011
+Updated: 02/13/2013
+Journal: JPCA
+Notes:  Moghadam13p2605, JPCA 117, 2605 (2013).
+=======================================================================
+R083
+Theoretical examination of picosecond phenol migration dynamics
+in phenylacetylene solution
+RGA: LK, SMY, AMR (Fayer, Gordon)
+Status: (published 30 Aug 2013) 
+BICO:  (none)
+Started: 01/05/2011
+Updated: 08/30/2013
+Journal: CP
+Notes: Kocia13p175.pdf, Chem. Phys. 422, 175-83 (2013).
+=======================================================================
+R076
+Reinterpretation of bond-valence model with bond-order formalism: 
+an improved bond-valence-based interatomic potential for PbTiO$_3$
+RGA: SL, IG, HT, AMR
+Status: (published 6 Sep 2013)
+BICO:   (none)
+Started: 06/01/2010
+Updated: 09/06/2013
+Journal: PRB
+Notes: Liu13p104102.pdf, PRB 88, 104102 (2013)
+=======================================================================
+R123
+Continuous Growth of Hexagonal Graphene and Boron Nitride in-plane 
+heterostructures by atmospheric pressure chemical vapor deposition
+RGA: CWL, AMR (Ganghee Han, Charlie Johnson)
+Status: (published 13 Nov 2013)
+BICO: (none)
+Started: 04/29/2013
+Updated: 11/13/2013
+Journal: ACS Nano
+Notes: Han13p10129.pdf
+========================================================================
+R108 
+Backbiting and $\beta$-scission Reactions in Self-initiated Polymerization 
+of Methyl Acrylate: a Theoretical Study
+RGA: SL, AMR (and Masoud Soroush and Sriraj Srinivasan)
+Status: (published 19 Nov 2013)
+BICO: (none)
+Started: 07/19/2012
+Updated: 11/19/2013
+Journal: IJQC 
+Notes: Liu14p345.pdf, International Journal of Quantum Chemistry, 114, 345-360 (2014)
+=======================================================================
+R091
+Perovskite oxides for visible-light-absorbing ferroelectric and photovoltaic materials
+RGA: GYG, IG, AMR (Maria Torres, Jonathan E. Spanier, Don Vincent West and Peter K. Davies)
+Status: (published 28 Nov 2013)
+BICO: (none)
+Started: 06/30/2011
+Updated: 11/28/2013
+Journal: Nature
+Notes:  Grinberg13p509.pdf, Grinberg13p509-c1.pdf
+=======================================================================
+R116 
+Exploration of the intrinsic inertial response of ferroelectric domain walls 
+via molecular dynamics simulations
+RGA: SL, IG, AMR
+Status: (published 5 Dec 2013)
+BICO: (none)
+Started: 07/19/2012
+Updated: 12/05/2013
+Journal: APL
+Notes: Liu13p232907.pdf
+=======================================================================
+R111
+Bulk Dirac point in Distorted Spinels
+RGA: SMY, JS, SZ, AMR (Julia Steinberg)
+Status: (published 22 January 2014)
+BICO:  (none)
+Started: 07/22/2012
+Updated: 01/14/2014
+Journal: PRL
+Notes: Steinberg14p036403.pdf
+=======================================================================
+R142
+Physical adsorption: theory of Van der Waals interactions between
+particles and clean surfaces
+RGA: JT, AMR
+Status: (published 10 March 2014)
+BICO: (none)
+Started: 11/04/2013
+Updated: 03/10/2014
+Journal: PRL
+Notes: Tao14p106101.pdf
+=======================================================================
+R115
+Atomic sublattice decomposition of piezoelectric response in tetragonal
+PbTiO3, BaTiO3, and KNbO3
+RGA: JS, IG, AMR (Jing Shi)
+Status: (published 21 March 2014)
+BICO: (none) 
+Started: 11/20/2012
+Updated: 03/21/2014
+Journal: PRB
+Notes: Shi14p094105.pdf
+=========================================================================
+R147
+Band gap engineering strategy via polarization rotation 
+in perovskite ferroelectrics
+RGA: FW, IG, and AMR
+Status: (published 16 April 2014)
+BICO: (none)
+Started: 01/28/2014
+Updated: 04/16/2014
+Journal: APL
+Notes: Wang14p152903.pdf
+=========================================================================
+R126
+Coexisting Surface Phases and Coherent One-Dimensional Interfaces on
+BaTiO3(001)
+RGA: JMPM, Erie H. Morales, WAS, AMR and Dawn A. Bonnell 
+Status: Published online 29 April 2014
+BICO:
+Started:
+Updated:Apr 30 2014
+Journal:ACS Nano  
+Notes: Morales14p4465.pdf
+=========================================================================
+R125
+Coupling between octahedral rotations and local polar displacements in 
+WO$_3$/ReO$_3$ superlattices
+RGA: JTS, LJ, DSG, AMR
+Status: Published 13 May 2014
+BICO:
+Started:
+Updated: 05/13/2014
+Journal: PRB
+Notes: Schick14p195304.pdf, PRB 89, 195304 (2014)
+=========================================================================
+R089
+Density Functional Theory Study of hypothetical PbTiO3-based oxysulfides
+RGA: JAB, HT, CWL, IG, JWB, MRS, AMR
+Status: Published 14 May 2014
+BICO: (none)
+Started: 05/30/2011
+Updated: 05/14/2014
+Journal: PRB
+Notes: Brehm14p195202.pdf, PRB 89, 195202 (2014)
+=======================================================================
+R130
+Semiconducting Ferroelectrics for Photovoltaics through Zn$^{2+}$ Doping into KNbO$_{3}$ and Polarization Rotation
+RGA: FW, IG and AMR
+Status: Published online 5 June 2014
+BICO: 
+Started: 10/28/2013
+Updated: 06/05/2014
+Journal: PRB
+Notes: Wang14p235105.pdf, PRB 89, 235105 (2014)
+=========================================================================
+R133
+Enhanced charge ordering transition in doped CaFeO$_3$ through steric templating
+RGA: LJ, DSG, JTS, AMR
+Status: Published online 5 June 2014 
+BICO: (none) 
+Started: 07/25/2013
+Updated: 06/05/2014
+Journal: PRB
+Notes: Jiang14p235106.pdf, PRB 89, 235106 (2014)
+=======================================================================
+R062
+The structural diversity of ABS3 compounds with d^0 electronic configuration
+for the B-cation
+RGA: MRS, JWB, JAB, AMR
+Status: Published 11 June 2014
+BICO: (none)
+Started:08/11/2009
+Updated:06/11/2014
+Journal: JCP
+Notes: Brehm14p224703.pdf, JCP 140, 224703 (2014)
+=======================================================================
+R146
+Theoretical Study of Chain Transfer to Solvent Reactions of Alkyl Acrylates
+RGA: NM, AMR (Masoud, Sriraj)
+Status: Published online 27 June 2014
+BICO: (none)
+Started: 01/22/2014
+Updated: 06/27/2014
+Journal: J. Phys. Chem. A, 2014, 118 (29), pp 5474-5487
+Notes: Moghadam14p5474.pdf
+=======================================================================
+R101
+Semiconducting ferroelectric perovskites with intermediate bands via $B$-site Bi$^{5+}$ doping
+RGA: LJ, IG, FW, AMR 
+Status: Published on 29 Aug 2014 
+BICO: (none)
+Started: 02/24/2012
+Updated: 08/29/2014
+Journal: PRB
+Notes: Jiang14p075153.pdf, PRB 90, 075153 (2014)
+=======================================================================
+R103
+Modeling Spin-Forbidden Monomer Self-Initiation Reactions in Spontaneous 
+Free-Radical Polymerization of Acrylates and Methacrylates
+RGA: SL,JT,AMR (and Masoud Soroush and Sriraj Srinivasan)
+Status: Published online 04 Sep 2014
+BICO: (none)
+Started: 03/25/2012
+Updated: 09/19/2014
+Journal:J. Phys. Chem. A, 2014, 118 (40), pp 9310-9318
+Notes: Liu14p9310.pdf 
+=======================================================================
+R127
+Theoretical Model of Oxidative Adsorption of Water on a Highly Reduced 
+Reconstructed Oxide Surface
+RGA: NK, JMPM, AMR
+Status: Published online 22 Sep 2014
+BICO: (none)
+Started: 06/28/2013
+Updated: 09/22/2014
+Journal: The Journal of Physical Chemistry Letters
+Notes: Koocher14p3408.pdf, JPCL 5, 3408 (2014) 
+=======================================================================
+R139
+Comutational Studies of Lead-based Relaxor Ferroelectrics
+RGA: HT, IG, YHS, AMR
+Status: Published 09 Oct 2014
+BICO: (none)
+Started: 10/01/2013
+Updated: 10/09/2014
+Journal: Ferroelectrics
+Notes: Takenaka14p1.pdf, Ferroelectrics 469, 1 (2014)
+========================================================================
+R128
+Ferroelectric polarization reversal via successive
+ferroelastic transitions
+RGA: RX, SL, IG, JK, ARD, AMR & LWM 
+Status: Published 26 Oct 2014
+BICO: (none)
+Started: 07/03/2013
+Updated: 10/26/2014
+Journal: Nature Materials
+Notes: Xu14p1.pdf, Nature Materials, doi:10.1038/nmat4119
+========================================================================
+R057
+Strong Reciprocal Interaction between Polarization and Surface Stoichiometry in
+Oxide Ferroelectrics  
+RGA: WAS, JMPM, AMR
+Status: Published 16 Oct 2014
+BICO: (none)
+Started: 05/17/2009
+Updated: 10/16/2014
+Journal: Nano Letters
+Notes: Saidi14p6711.pdf, Nano Letters
+========================================================================
+R148
+First-principles calculation of the bulk photovoltaic effect in the polar compounds LiAsS2, LiAsSe2, and NaAsSe2
+RGA: JAB, SMY, FZ, and AMR
+Status: Published 25 Nov 2014
+BICO: (none)
+Started: 01/31/2014
+Updated: 11/25/2014
+Journal: JCP
+Notes: Brehm14p204704.pdf, The Journal of Chemical Physics, 141, 204704 (2014); doi: 10.1063/1.4901433
+========================================================================
+R157
+First-principles calculation of bulk photovoltaic effect in CH3NH3PbI3 and CH3NH3PbI3-xClx
+RGA: FZ, HT, FW, NK, AMR
+Status: Published on Nov 25 2014
+BICO: (none)
+Started: 08/15/2014
+Updated: 11/25/2014
+Journal: Journal of Physical Chemistry Letter
+Notes: Zheng15p31.pdf, The Journal of Physical Chemistry Letter, 6, 31 (2015)
+========================================================================
+R094
+Theoretical Study of Intermolecular Chain Transfer to Polymer
+Reactions of Alkyl Acrylates
+RGA: NM, SL, AMR (and Masoud Soroush and Sriraj Srinivasan)
+Status: Published on 29 Dec 2014
+BICO:  (none)
+Started: 08/08/2011
+Updated: 12/29/2014
+Journal: Industrial & Engineering Chemistry Research
+Notes: Moghadam15p4148.pdf, Ind. Eng. Chem. Res., 54, 4148 (2015) DOI: 10.1021/ie504110n
+=======================================================================
+R124
+Ferroelectrically Driven Spatial Carrier Density Modulation in Graphene
+RGA: DSG, JMPM, AMR (Christoph Baeumer, Prof. Moonsub Shim and Prof. Lane W. Martin)
+Status: Published on Jan 22 2015
+BICO: (none)
+Started: 05/03/2013
+Updated: 01/22/2015
+Journal: Nature Communications
+Notes: Baeumer15p6136.pdf, Nature Communications doi: 10.1038/ncomms7136
+=======================================================================
+R160
+Ferroelectric Domain Wall Induced Band Gap Reduction and Charge Separation in Organometal Halide Perovskites
+RGA:SL,FZ,NK,HT,FW,AMR
+Status: published online Jan 22 2015
+BICO: (none) 
+Started: 11/19/2014
+Updated: 01/22/2015
+Journal:Journal of Physical Chemistry Letter
+Notes: Liu15p693.pdf, J. Phys. Chem. Lett.,6, 693 (2015)
+=======================================================================
+R087
+Synergistic Oxygen Evolving Activity of a TiO2-rich
+Reconstructed SrTiO3(001) Surface
+RGA: JMPM, SK, AMR, EHM (Erie H. Morales), DAB (Dawn A. Bonnell), 
+     TRG (Thormas R. Gordon), MC (Matteo Cargnello), 
+     BTD (Benjamin T. Diroll), CBM (Christopher B. Murray)
+Status: Published 09 Feb 2015
+BICO: (none)
+Started: 05/05/2011
+Updated: 02/09/2015
+Journal: JACS
+Notes: Martirez15pA.pdf, J. Am. Chem. Soc (2015)
+=======================================================================
+R131
+First-Principles calculation of the Bulk Photovoltaic Effect in KNbO3 and (K,Ba)(Ni,Nb)O_{3-\delta}
+RGA: FW and AMR
+Status: published 04/21/2015
+BICO: (none)
+Started: 11/12/2013
+Updated: 04/21/2015
+Journal: PRB
+Notes:   Wang15p165124.pdf             
+======================================================================
+R155
+Dynamical Screening of van der Waals interactions in nanostructured solids:
+Sublimation of fullerenes
+RGA: JT, JY, AMR
+Status: published 04/23/2015
+BICO: (none)
+Started: 10/16/2014
+Updated: 04/23/2015
+Notes: Tao15p164302.pdf
+=======================================================================
+R172
+Theory of Hydrogen Migration in Organic-Inorganic Halide Perovskites
+RGA:AMR (Egger, Kronik)
+Status: published 06/12/2015
+BICO: (none)
+Started: 03/14/2015
+Updated: 06/12/2015
+Journal: Angewandte Chemie
+Notes: Egger15p12437.pdf
+======================================================================
+R068
+Modified Schottky emission to explain thickness dependence and slow
+depolarization in BaTiO_{3} nanowires
+RGA: YQ, JMPM, WAS and AMR
+Status: published 06/24/2015
+BICO: (none)
+Started: 11/02/2009
+Updated: 06/24/2015
+Notes: Qi15p245431.pdf
+=======================================================================
+R175
+Dirac line nodes in inversion--symmetric crystals
+RGA: YK, BJW, CLK, AMR
+Status: published 07/17/2015
+BICO: (none)
+Started: 04/15/2015
+Updated: 07/17/2015
+Journal: PRL
+Note: Kim15p036806.pdf
+=======================================================================
+R176
+Hybrid Organic--Inorganic Perovskites (HOIPs):
+Opportunities and Challenges
+RGA: Joseph Berry, Tonio Buonassisi, David A. Egger, Gary Hodes,
+Leeor Kronik, Yueh--Lin Loo, Igor Lubomirsky, Seth R. Marder,
+Yitzhak Mastai, Joel S. Miller, David B. Mitzi, Yaron Paz, 
+Andrew M. Rappe, Ilan Riess, Boris Rybtchinski, Oscar Stafsudd,
+Vladan Stevanovic, Michael F. Toney, David Zitoun, Antoine Kahn, 
+David Ginley, David Cahen
+Status: published 07/30/2015
+BICO: (none)
+Started: 04/16/2015
+Updated: 07/30/2015
+Journal: Adv. Mat.
+Notes: Berry15p5102.pdf
+=======================================================================
+R151 
+Quantum pressure and chemical bonding: Influence of magnetic fields 
+RGA: JT, SL, FZ, AMR
+Status: published 08/03/2015
+BICO: (none)
+Started: 09/16/2014
+Updated: 08/03/2015
+Journal: PRB Rapid Communication 
+Notes: Tao15p060401.pdf
+=======================================================================
+R161
+Layered Topological Crystalline Insulators
+RGA:YK,CLK,EJM,AMR
+Status: published 08/20/2015
+BICO:  (none)
+Started: 12/12/2014
+Updated: 08/20/2015
+Journal: PRL
+Notes: Kim15p086802.pdf
+=======================================================================
+R186
+Unusually Large Young's Moduli of Amino Acid Molecular Crystals
+RGA: Ido Azuri, Elena Meirzadeh, David Ehre, Sidney R. Cohen, 
+Andrew M. Rappe, Meir Lahav, Igor Lubomirsky, and Leeor Kronik
+Status: published 09/16/2015
+BICO:  (none)
+Started: 06/11/2015
+Updated: 09/16/2015
+Journal: Angew. Chem. Int. Ed.
+Notes: Azuri15p13566.pdf
+=======================================================================
+R156
+Ultrafast Terahertz Gating of the Polarization and Giant
+Nonlinear Optical Response in BiFeO3 Thin Films 
+RGA: Frank Chen, John Goodfellow, Shi Liu, Ilya Grinberg,
+Matthias C. Hoffmann, Anoop R. Damodaran, Yi Zhu, Peter Zalden, 
+Xiaohang Zhang, Ichiro Takeuchi, Andrew M. Rappe, 
+Lane W. Martin, Haidan Wen, Aaron M. Lindenberg
+Status: published 09/21/2015
+BICO:  (none)
+Started: 08/11/2014
+Updated: 09/21/2015
+Journal: Adv. Mat.
+Notes: Chen15p6371.pdf
+=======================================================================
+R179
+Polarization Dependence of Water Adsorption to CH3NH3PbI3(001) Surfaces
+RGA: NZK, DSG, FW, SL, AMR
+Status: published 10/01/2015
+BICO:  (none)
+Started: 05/01/2015
+Updated: 10/01/2015
+Journal: Journal of Physical Chemistry Letter
+Notes: Koocher15p4371.pdf
+=======================================================================
+R180
+Electronic transition above room temperature in CaMn7O12 films
+RGA: A. Huon, A. C. Lang, D. Saldana-Greco, J. S. Lim, E. J. Moon, 
+A. M. Rappe, M. L. Taheri, S. J. May
+Status: published 10/05/2015
+BICO:  (none)
+Started: 05/01/2015
+Updated: 10/05/2015
+Journal: Appl. Phys. Lett.
+Notes: Huon15p142901.pdf
+=======================================================================
+R177
+Novel Materials Solutions and Simulations for Nanoelectromechanical Switches
+RGA: RWC, FS, DBD,GEW, JY, YQ, FY, DJS, AMR
+Status: published 10/11/2015
+BICO: (none)
+Started: 04/24/2015
+Updated: 10/11/2015
+Journal: IEEE
+Notes: Streller15p363.pdf
+=====================================================================
+R168
+Rashba Spin--Orbit Coupling Enhanced Carrier Lifetime in CH3NH3PbI3
+RGA: FZ, LZT, SL, AMR
+Status: published online 10/13/2015
+BICO:  (none)
+Started: 01/25/2015
+Updated: 10/13/2015
+Journal: Nano. Lett.
+Notes: Zheng15p7794.pdf
+=======================================================================
+R152
+Designing Ferroelectric Field--Effect Transistors Based on the 
+Polarization--Rotation Effect for Low Operating Voltage and Fast Switching
+RGA: YQ, AMR
+Status: published 10/21/2015
+BICO: (none)
+Started: 05/11/2014
+Updated: 10/21/2015
+Journal: Physical Review Applied
+Notes: Qi15p044014.pdf
+=======================================================================
+R158
+Materials design of visible-light ferroelectric photovoltaics from first principles
+RGA: FW, IG, LJ, SMY, PKD, and AMR
+Status: published 10/29/2015
+BICO: (none)
+Started: 09/22/2014
+Updated: 10/29/2015
+Journal: Ferroelectrics
+Notes: Wang15p1.pdf
+=======================================================================
+R200
+Are Mobilities in Hybrid Organic-Inorganic Halide Perovskites Actually `High'?
+RGA: AMR (Egger, Kronik, Cahen)
+Status: published 11/17/2015
+BICO: (none)
+Started: 10/19/2015
+Updated: 11/17/2015
+Journal: JPCL
+Notes: Brenner15p4754.pdf
+=====================================================================
+R113
+First-Principles Materials Design of High-Performing Bulk Photovoltaics with the LiNbO3 Structure
+RGA: SMY,FZ, AMR
+Status: published 11/18/2015
+BICO: (none)
+Started: 09/01/2012
+Updated: 11/18/2015
+Journal: PRApplied
+Notes: Young15p054004.pdf
+=======================================================================
+R181
+Material innovation in advancing organometal halide perovskite functionality
+RGA: FZ, DSG, SL, AMR
+Status: published 11/24/2015
+BICO: (none)
+Started: 05/24/2015
+Updated: 11/24/2015
+Journal: JPCL
+Notes: Zheng15p4862.pdf, Zheng15p4862-c1.pdf
+=====================================================================
+R122
+Surface Chemically switchable ultraviolet luminescence from interfacial two-dimensional electron gas
+RGA: DSG, FW, AMR (Mohammad A. Islam, Zongquan Gu and Prof Jonathan E. Spanier)
+Status: published 12/16/2015
+BICO: (none)
+Started: 03/29/2013
+Updated: 12/16/2015
+Journal: Nano Letters
+Notes: Islam16p681.pdf
+=========================================================================
+R099
+Controlling oxide surface dipole and reactivity with intrinsic nonstoichiometric epitaxial reconstructions
+RGA: SCK, CWL, AMR (Ofer)
+Status: published 12/17/2015
+BICO: (none)
+Started: 02/14/2012
+Updated: 12/17/2015
+Journal: PRB
+Notes: Kim15p235431.pdf
+=======================================================================
+R141
+Asymmetric Response of Ferroelastic Domain Wall Motion Under Applied Bias
+RGA: SL, IG, AMR 
+Status: published 12/23/2015
+BICO: (none)
+Started: 02/14/2012
+Updated: 12/23/2015
+Journal: ACS Applied Materials and Interfaces
+Notes: Jablonski16p2935.pdf
+=======================================================================
+R170
+Accurate higher-order van der Waals coefficients between molecules from a model
+dynamic multipole polarizability
+RGA:JT and AMR
+Status: published 01/20/2016
+BICO: (none)
+Started: 02/26/2015
+Updated: 01/20/2016
+Journal: JCP
+Notes: Tao16p031102.pdf
+======================================================================
+R129
+Substantial bulk photovoltaic effect enhancement via nanolayering
+RGA: FW, SMY, FZ, IG, and AMR
+Status: published 01/21/2016
+BICO: (none)
+Started: 07/16/2013
+Updated: 01/21/2016
+Journal: Nature Communications
+Notes: Wang16p10419.pdf
+======================================================================
+R174
+Strain induced ferroelectric topological insulator
+RGA: SL, YK, LZT
+Status: published 01/27/2016
+BICO: (none)
+Started: 03/23/2015
+Updated: 01/27/2016
+Journal: Nano Letters
+Notes: Liu16p1663.pdf
+======================================================================
+R198
+Hybrid Organic-Inorganic Perovskites on the Move
+RGA: AMR (Egger, Kronik)
+Status: published 02/15/2016
+BICO: (none)
+Started: 09/10/2015
+Updated: 02/15/2016
+Journal: Accounts of Chemical Research
+Notes: Egger16p573.pdf
+=====================================================================
+R171
+Theoretical modeling of tribopolymer reaction on Pt and Au Contacts: 
+Mechanical Load and Catalysis
+RGA:YQ,JY,AMR
+Status: published 02/24/2016
+BICO: (none)
+Started: 03/13/2015
+Updated: 02/24/2016
+Journal: ACS Applied Materials & interfaces
+Notes: Qi16p7529.pdf
+======================================================================
+R184
+Quantum Anomalous Hall Effect in Two-Dimensional $\pi$--Conjugated Covlent--Organic 
+Frameworks as Quantum Anomalous Hall Topological Insulators
+RGA: LD, YK, DE, AMR, VBS  (LD = Liang Dong) (VBS = Vivek Shenoy)
+Status: published 02/29/2016
+BICO: (none) 
+Started: 05/29/2015
+Updated: 02/29/2016
+Journal: PRL 
+Notes: Dong16p096601.pdf
+=====================================================================
+R204
+Photoferroelectric and Photopiezoelectric Properties of Organometal Halide Perovskites
+RGA: SL,FZ,IG,AMR
+Status: published 03/22/16
+BICO: (none)
+Started: 11/11/2015
+Updated: 03/22/2016
+Journal:  JPCL
+Notes: Liu16p1460.pdf
+=====================================================================
+R144
+Interplay between cation and charge ordering in La1/3Sr2/3FeO3 Superlattices
+RGA: CWL, AMR (Alex Krick, R.J.Sichel-Tissot, E.Karapetrova, S.J.May)
+Status: published 04/05/16
+BICO: (none)
+Started: 01/22/2014
+Updated: 04/05/2016
+Journal: Advanced Electronic Materials
+Notes: Krick16p1500372.pdf (but this is not final page number or file name)
+=======================================================================
+R211
+Study of n-Butyl Acrylate Self-Initiation Reaction Experimentally and via Macroscopic Mechanistic Modeling
+RGA: AMR (Soroush)
+Status: published 04/23/16
+BICO: (none)
+Started: 02/14/2016
+Updated: 04/23/2016
+Journal: Processes
+Notes: Shamsabadi16p15.pdf
+======================================================================
+R210
+High Chloride Doping Levels Stabilize the Perovskite Phase of Cesium Lead Iodide
+RGA: SL, LZT, AMR, Fafarman, Egger, Kronik
+Status: published 05/02/2016
+BICO: (none)
+Started: 01/07/2016
+Updated: 05/02/2016
+Journal: Nano Lett.
+Notes: Dastidar16p3563.pdf
+=====================================================================
+R207
+Double Dirac Semimetal in Three Dimensions
+RGA: BJW, YK, AMR, CLK
+Status: published 05/05/16
+BICO:  (none)
+Started: 11/28/2015
+Updated: 05/05/2016
+Journal: PRL
+Notes: Wieder16p186402.pdf
+=====================================================================
+R173 
+Substantial optical dielectric enhancement by volume  compression in LiAsSe2
+RGA: FZ, JB, SMY, YK, and AMR
+Status: published 05/20/16
+BICO: (none)
+Started: 03/20/2015
+Updated: 05/20/2016
+Journal: PRB
+Notes: Zheng16p195210.pdf
+=====================================================================
+R208
+Monolayer single-crystal 1T'-MoTe2 grown by chemical vapor deposition exhibits a weak antilocalization effect
+RGA: CHN, WMP, JP, ZG, WZ, YRZ, YK, FS, RC, AMR, MD, JK, ATCJ (CHN = Car H. Naylor, ATCJ=A. T. Charlie Johnson)
+Status: published 05/25/2016
+BICO: (none)
+Started: 12/15/2015
+Updated: 05/25/2016
+Journal: Nano Lett.
+Notes: Naylor16p4297.pdf 
+=====================================================================
+R163
+Classical model of negative thermal expansion in solids with expanding bonds
+RGA:JTS,AMR
+Status: published 06/07/16
+BICO: (none)
+Started: 01/08/2015
+Updated: 06/07/2016
+Journal: PRB
+Notes: Schick16p214304.pdf
+=====================================================================
+R192
+Enhancement of the Bulk Photovoltaic Effect in Topological Insulators
+RGA: LZT, AMR
+Status: published 06/08/16
+BICO: (none)
+Started: 08/14/2015
+Updated: 06/08/2016
+Journal: PRL
+Notes: Tan16p237402.pdf
+=====================================================================
+R110
+Intrinsic ferroelectric switching from first principles
+RGA: SL, IG, AMR
+Status: published 06/16/16
+BICO: (none)
+Started: 07/20/2012
+Updated: 06/16/2016
+Journal: Nature
+Notes: Liu16p360.pdf
+=====================================================================
+R216
+Valence Band Engineering of Metal Silicide Films
+RGA: (Frank Streller), YQ, JY, (Filippo Mangolini), AMR, (Robert W. Carpick)
+Status: published 06/20/2016
+BICO: (none)
+Started: 02/23/2016
+Updated: 06/20/2016
+Journal: JPCL
+Notes: Streller16p2573.pdf
+=====================================================================
+R182
+Stable Phosphorus-Enriched (0001) Surfaces of Nickel Phosphides
+RGA: RBW, JMPM, AMR
+Status: published 07/18/2016
+BICO: (none)
+Started: 12/09/2015
+Updated: 07/18/2016
+Journal: Chem. Mater.
+Notes: Wexler16p5365.pdf
+=====================================================================
+R213
+Assemblage of superalkali complexes with ever low-ionization potentials
+RGA: AMR (Paduani)
+Status: published 07/27/2016
+BICO: (none)
+Started: 02/16/2016
+Updated: 07/27/2016
+Journal: J. Phys. Chem. A
+Notes: Paduani16p6493.pdf
+=====================================================================
+R193
+Power conversion efficiency exceeding the Shockley-Queisser limit in a ferroelectric insulator
+RGA: AMR (Spanier, Fridkin)
+Status: published 08/08/2016
+BICO: (none)
+Started: 08/14/2015
+Updated: 08/08/2016
+Journal: Nature Photonics
+Notes: Spanier16p611.pdf
+=====================================================================
+R183
+Shift current bulk photovoltaic effect in polar materials -- hybrid
+and oxide perovskites and beyond
+RGA: LZT, FZ, FW, SL, SMY, AMR
+Status: published 08/26/2016
+BICO: (none)
+Started: 05/29/2015
+Updated: 08/26/2016
+Journal: npj computational materials
+Notes: Tan16p16026.pdf
+=====================================================================
+R221
+Design of New Complexes of Inorganic Salts Based on Lithium and
+Magnesium Hydroxides and Carbonates for Usage as Propellants and Flame
+Retardants
+RGA: CP, AMR
+Status: published 09/12/2016
+BICO: (none)
+Started: 06/03/2016
+Updated: 09/12/2016
+Journal: Journal of Physical Chemistry A
+Notes: Paduani16p7764.pdf
+====================================================================
+R236
+Direct Observation of Electron-Phonon Coupling and Slow Vibrational Relaxation in Organic-Inorganic Hybrid Perovskites
+RGA: JG, AMR (Straus, Kikkawa, Kagan)
+Status: published 10/5/16
+BICO: (none)
+Started: 09/25/2016
+Updated: 10/05/2016
+Journal: JACS
+Notes: Straus16p13798.pdf
+====================================================================
+R226
+A DFT study on the hydrogen desorption from the lithium borohydride and  aluminohydride upon the addition of nanostructured carbon catalyzing agent
+RGA: CP, AMR
+Status: published 10/13/16
+BICO: (none)
+Started: 07/10/2016
+Updated: 10/13/2016
+Journal: Intl Journal of Hydrogen Energy
+Notes: Paduani17p3019.pdf
+====================================================================
+R169
+Atomistic description for temperature-driven phase transitions in BaTiO3
+RGA:YQ,SL,IG,AMR
+Status: published 10/19/16
+BICO: (none)
+Started: 01/30/2015
+Updated: 10/19/2016
+Journal: PRB
+Notes: Qi16p134308.pdf
+======================================================================  
+R166
+Improved pseudopotential transferability to magnetic and electronic properties 
+of binary manganese oxides from DFT+U+J Calculations
+RGA: JSL,DSG,AMR
+Status: published 10/21/16
+BICO: (none)
+Started: 01/10/2015
+Updated: 10/21/2016
+Journal: PRB
+Notes: Lim16p165151.pdf
+======================================================================
+R190
+Origin and structure of polar domains in doped molecular crystals
+RGA: YQ, AMR (Kronik, Lahav, Lubomirsky)
+Status: published 11/08/16
+BICO: (none)
+Started: 07/12/2015
+Updated: 11/08/2016
+Journal: Nature Communications.
+Notes: Meirzadeh16p13351.pdf
+=====================================================================
+R205
+Electron-beam-induced ferroelectric domain behavior in the
+transmission electron microscope: Toward deterministic domain
+patterning
+RGA: James L. Hart, SL, AMR, Mitra L. Taheri, Miryam Arredondo 
+Status: published 11/11/16
+BICO: (none)
+Started: 11/16/2015
+Updated: 11/11/2016
+Journal: PRB
+Notes: Hart16p174104.pdf
+=====================================================================
+R185
+Thin-film ferroelectric materials and their applications
+RGA: AMR (Lane Martin)
+Status: published 11/15/16
+BICO: (none)
+Started: 06/09/2015
+Updated: 11/15/2016
+Journal: Nature Reviews Materials
+Notes:  Martin16p16087.pdf
+=====================================================================
+R196
+Ultrafast terahertz-field-driven ionic response in ferroelectric BaTiO3
+RGA: SL, YQ, AMR (Lindenberg)
+Status: published 11/22/16
+BICO: (none)
+Started: 09/02/2015
+Updated: 11/22/2016
+Journal: PRB Rapid
+Notes: Chen16p180104.pdf
+=====================================================================
+R188
+Adsorption of Benzene on the RuO2(110) Surface
+RGA: HDK, JY, YQ, AMR
+Status: published 12/19/16
+BICO: (none)
+Started: 07/01/2015
+Updated: 12/19/2016
+Journal: The Journal of Physical Chemistry C
+Notes: Kim17p1585.pdf
+======================================================================
+R197
+Frequency-dependent dielectric function of semiconductors with application to physisorption
+RGA: FZ, JMT, AMR
+Status: published 01/11/2017
+BICO: (none)
+Started: 09/05/2015
+Updated: 01/11/2017
+Journal: PRB
+Notes: Zheng17p035203.pdf
+=====================================================================
+R240
+Large area synthesis of high-quality monolayer flakes of 1T'-WTe2
+RGA: (CH Naylor), (WM Parkin), (Z Gao), (H Kang), (M Noyan), RBW, LZT, YK, (CE Kehayias), (F Streller), (YR Zhou), (R Carpick), (Z Luo), (YW Park), (M Drndic), AMR, (JM Kikkawa), (ATC Johnson)
+Status: published 02/01/2017
+BICO: (none)
+Started: 11/08/2016
+Updated: 02/01/2017
+Journal: 2D Materials
+Notes: Naylor17p021008.pdf
+====================================================================
+R238
+Giant bulk photovoltaic effect in vinylene-linked hybrid heterocyclic polymer
+RGA: SL, FZ, AMR
+Status: published 03/02/2017
+BICO: (none)
+Started: 07/30/2016
+Updated: 03/02/2017
+Journal: JPCC special issue Mark Gordon
+Notes: Liu17p6500.pdf
+====================================================================
+R230
+Influence of the Dimensionality and Organic Cation on Crystal and Electronic Structure of Organometalic Halide Perovskites
+RGA: JG, YK, AMR
+Status:  published 03/02/2017
+BICO: (none)
+Started: 08/05/2016
+Updated: 03/02/2017
+Journal: JPCC 
+Notes: Gebhardt17p6569.pdf
+====================================================================
+R218
+Intermolecular Interactions in Hybrid Perovskites Understood from a Combined Density Functional Theory and Effective Hamiltonian Approach
+RGA: LZT, FZ, AMR
+Status: published 03/28/2017
+BICO: (none)
+Started: 05/11/2016
+Updated: 03/28/2017
+Journal: ACS Energy Lett.
+Notes: Tan17p937.pdf
+====================================================================
+R206
+Local Polar Fluctuations in Lead Halide Perovskite Crystals
+RGA: LZT, FZ, AMR, (Egger, Kronik, Brus group) 
+Status: published 03/31/2017
+BICO: (none)
+Started: 11/25/2015
+Updated: 03/31/2017
+Journal: PRL
+Notes: Yaffe17p136001.pdf
+=====================================================================
+R191
+Large polarization gradients and temperature-stable responses in compositionally-graded ferroelectrics
+RGA: YQ, SL, AMR (Damodaran AR, Martin LW) 
+Status: published 05/10/2017
+BICO: (none)
+Started: 07/21/2015
+Updated: 05/10/2017
+Journal: Nature Comm
+Notes: Damodaran17p14961.pdf
+=====================================================================
+R225
+Asymmetry in mechanical polarization switching
+RGA: ZY,SL,AMR (Gruverman, Lu)
+Status: published 05/31/2017
+BICO: (none)
+Started: 07/02/2016
+Updated: 05/31/2017
+Journal: Appl. Phys. Lett.
+Notes: Lu17p222903.pdf
+====================================================================
+R256
+Reply to ‘Reconsidering the Shockley–Queisser limit of a ferroelectric insulator device’
+RGA: YQ, AMR, (Spanier), (Fridkin)
+status: published 06/01/2017
+BICO: (none)
+Started: 06/01/2017
+Updated: 06/01/2017
+Journal: Nat. Photon.
+Notes: Spanier17p330.pdf
+========================================================================
+R149
+The Slush Structures in Single Crystal Relaxors
+RGA: HT, IG, SL, AMR
+Status: published 06/15/2017
+BICO: (none)
+Started: 04/16/2014
+Updated: 06/15/2017
+Journal: Nature
+Notes: Takenaka17p391.pdf
+=======================================================================
+R237
+Rashba effect in a single colloidal CsPbBr3 perovskite nanocrystal detected by magneto-optical measurements
+RGA: LZT, AMR (E. Lifshitz)
+Status: published 06/28/2017
+BICO: (none)
+Started: 02/10/2016
+Updated: 06/28/2017
+Journal: Nano Lett.
+Notes: Isarov17p5020.pdf
+====================================================================
+R250
+Getting a charge out of hybrid perovskites
+RGA: AMR, IG, JES
+Status: published 07/11/2017
+BICO: (none)
+Started: 04/26/2017
+Updated: 07/11/2017
+Journal: PNAS
+Notes: Rappe17p7191.pdf
+======================================================================
+R243
+Tuning the gap of lead-based halide perovskites by introducing superalkali species at the cationic sites of ABX3-type structure 
+RGA: CP, AMR
+Status: published 07/19/2017
+BICO: (none)
+Started: 2/21/2017
+Updated: 7/19/2017
+Journal: PCCP
+Notes: Paduani17p20619.pdf
+========================================================================
+R217
+Screened van der Waals correction to density functional theory for solids
+RGA: JMT, FZ, FW, SL
+Status: published 07/21/2017
+BICO: (none)
+Started: 02/24/2016
+Updated: 07/21/2017
+Journal: PRM
+Notes: Tao17p020802.pdf
+========================================================================
+R224
+Light-induced picosecond rotational disordering of the inorganic sublattice in hybrid perovskites
+RGA: LZT,SL,AMR (Egger, Kronik, Lindenberg)
+Status: published 07/26/2017
+BICO: (none)
+Started: 06/11/2016
+Updated: 07/26/2017
+Journal: Science Advances
+Notes: Wu17p1602388.pdf
+====================================================================
+R209
+Ferroelectricity and Spin-Orbit Coupling in Organic-Inorganic Perovskite Halides
+RGA: LZT, AMR, Giacomo Giogi, Silvia Picozzi
+Status: published 07/27/2017
+BICO: (none)
+Started: 12/18/2015
+Updated: 07/27/2017
+Journal: Publisher: CRC Press, Taylor & Francis Group
+Notes: PDF version not available from publisher.
+URL: https://www.crcpress.com/Theoretical-Modeling-of-Organohalide-Perovskites-for-Photovoltaic-Applications/Giorgi-Yamashita/p/book/9781498750783
+=====================================================================
+R263
+Synthesis and Physical Properties of Phase-Engineered Transition Metal Dichalcogenide Monolayer Heterostructures
+RGA: LZT,AMR (Carpick,Drndic,Srolovitz,Johnson)
+status: published 08/02/2017
+BICO: (none)
+Started: 08/16/2017
+Updated: 08/02/2017
+Journal: ACS Nano
+Notes: Naylor17p8619.pdf
+========================================================================
+R231
+Structural and ferroelectric phase evolution in [KNbO3]1-x[BaNi1/2Nb1/2O3-d]x
+(x = 0, 0.1)
+RGA: IG, AMR (Hawley, Davies, Spanier)
+Status: published 08/28/2017
+BICO: (none)
+Started: 08/14/2016
+Updated: 08/28/2017
+Journal: PRB
+Notes: Hawley17p054117.pdf
+====================================================================
+R242
+Active Role of Phosphorus in the Hydrogen Evolving Activity of Nickel Phosphide (0001) Surfaces
+RGA: RBW, JMPM, AMR
+Status: published 09/26/2017
+BICO: (none)
+Started: 2/3/2017
+Updated: 09/26/2017
+Journal: ACS Catal.
+Notes: Wexler17p7718.pdf
+====================================================================
+R248
+Adding to the Perovskite Universe - Inverse-Hybrid Perovskites
+RGA: JG, AMR
+Status: published 10/18/2017
+BICO: (none)
+Started: 5/17/2017
+Updated: 10/18/2017
+Journal: ACS Energy Lett. 2017, 2, 2681-2685
+Notes: Gebhardt17p2681.pdf
+========================================================================
+R255
+Polarized emission in II-VI and perovskite colloidal quantum dots
+RGA: LZT, AMR
+status: published 10/23/2017
+BICO: (none)
+Started: 07/01/2017
+Updated: 10/23/2017
+Journal: J. Phys. B
+Notes: Isarov17p214001.pdf
+========================================================================
+R244 
+Accuracy and Transferability of $Ab Initio$ Electronic Band Structure Calculations for Doped BiFeO$_3$
+RGA: JG, AMR
+Status: published 11/19/2017 
+BICO: (none)
+Started: ???
+Updated: 11/19/2017
+Journal: J. Phys.: Conf. Ser. 921 012009
+Notes: Gebhardt17p012009.pdf
+========================================================================
+R259
+Experimental and Theoretical Study of the Self-Initiation Reaction of Methyl Acrylate in Free-Radical Polymerization
+RGA: AMR (Riazi, Shamsabadi, Grady, Soroush)
+status: published 12/20/2017
+BICO: (none)
+Started: 07/10/2017
+Updated: 12/20/2017
+Journal: Industrial & Engineering Chemistry Research
+Notes: Riazi18p532.pdf
+========================================================================
+R272
+On the Thermal Self-Initiation Reaction of n-Butyl Acrylate in Free-Radical Polymerization
+RGA: AMR (Soroush)
+status: published 01/04/2018
+BICO: (none)
+Started: 11/28/2017
+Updated: 01/04/2018
+Journal: Processes
+Notes: Riazi18p3.pdf
+========================================================================
+R167
+Improper magnetic ferroelectricity of nearly pure electronic nature in helicoidal 
+spiral CaMn7O12
+RGA:JSL(David),DSG,AMR
+Status: published 01/11/2018
+BICO: (none)
+Started: 01/13/2015
+Updated: 01/11/2018
+Journal: PRB
+Notes: Lim18p045115.pdf
+======================================================================
+R215
+Ultrafast electric field pulse control of giant temperature change in ferroelectrics
+RGA: YQ, SL, AMR (Lindenberg)
+Status: published 01/30/2018
+BICO: (none)
+Started: 02/22/2016
+Updated: 01/30/2018
+Journal: PRL
+Notes: Qi18p055901.pdf
+=====================================================================
+R249
+\textit{Ab initio} Simulation Explains the Enhancement of Catalytic Oxygen 
+Evolution on CaMnO$_3$ 
+RGA: TQ, AMR
+status: published 01/31/2018
+BICO: (none)
+Started: 5/24/2017
+Updated: 01/31/2018
+Journal: ACS Catalysis
+Notes: Qiu18preprint.pdf
+========================================================================
+R264
+Anion Exchange via Atomic Templating in II-VI Semiconducting Nanostructures
+RGA: LZT, AMR (Agarwal)
+status: published 02/06/2018
+BICO: (none)
+Started: 10/03/2017
+Updated: 02/06/2018
+Journal: Nano Lett.
+Notes: Agarwal18preprint.pdf
+========================================================================
+R265
+Mixed valence perovskite Cs2Au2I6: a potential material for thin-film Pb-free photovoltaic cells with ultrahigh efficiency
+RGA: AMR
+status: published 02/06/2018
+BICO: (none)
+Started: 10/12/2017
+Updated: 02/06/2018
+Journal: Adv. Mat.
+Notes: Debbichi18p1707001.pdf
+========================================================================
+R234
+Hybrid functional pseudopotentials
+RGA: JY, LZT, AMR
+Status: published 02/16/2018 
+BICO: (none)
+Started: 09/01/2016
+Updated: 02/16/2018
+Journal: PRB  
+Notes: Yang18p085130.pdf 
+====================================================================
+R222
+Molecule-adsorbed topological insulator and metal surfaces: a comparative first-principles study
+RGA: JY, AMR, LZT, (Soumyajit, Leeor)
+Status: published 02/25/2018
+BICO: (none)
+Started: 06/10/2016
+Updated: 02/25/2018
+Journal: Chem. Mater.
+Notes: Sarkar18p1849.pdf
+====================================================================
+R257
+Crystalline Bilayer Graphene with Preferential stacking from Ni-Cu Gradient Alloy
+RGA: ZG (Zhaoli Gao), QZ, CHN, YK, IHA, JP, PD, JZ, MZ, AMR, YJW, ZL, LR, CJ (Charlie Johnson)
+Status: published 03/06/2018
+BICO: (none)
+Started: 07/05/2017
+Updated: 03/06/2018
+Journal: ACS Nano
+Notes: Gao18p2275.pdf
+========================================================================
+R267
+Design of Metal-Halide Inverse-Hybrid Perovskites
+RGA: JG,AMR
+status: published 3/13/18
+BICO: (none)
+Started: 10/1/2017
+Updated: 03/13/2018
+Journal: Festschrift Kamat (J Phys Chem C)
+Notes: Gebhardt18p13872.pdf
+========================================================================
+R275
+Chemical Pressure-Driven Enhancement of the HER Activity of Ni2P(0001) via Nonmetal Surface Doping
+RGA: RBW, JMPM, AMR
+Status: published 03/19/2018
+BICO: (none)
+Started: 01/01/2018
+Updated: 03/19/2018
+Journal: JACS
+Notes: Wexler18p4678.pdf
+========================================================================
+R273
+What remains unexplained about the properties of halide perovskites?
+RGA: AMR (Egger, Yaffe, Kronik)
+status: published 3/22/18
+BICO: (none)
+Started: 12/23/2017
+Updated: 03/22/2018
+Journal: Adv. Mat.
+Notes: Egger18p1800691.pdf
+========================================================================
+R223
+Climbing the volcano of electrocatalytic activity while avoiding catalyst corrosion: Ni3P a hydrogen evolution electrocatalyst stable in both acid and alkali
+RGA: (AB Laursen), RBW, (Dr. MJ Whitaker), (E Izett), (H Wang), (Prof. J Li), AMR, (Prof. M Greenblatt), (Prof. GC Dismukes)
+Status: published 04/03/2018
+BICO: (none)
+Started: 06/10/2016
+Updated: 04/03/2018
+Journal: ACS Catal.
+Notes: Laursen18p4408.pdf
+========================================================================
+R199
+Mechanism of benzene tribopolymerization on the RuO2(110) surface
+mechanical force driven reactions
+RGA: JY, YQ, HDK, AMR
+Status: published 04/26/2018 
+BICO: (none)
+Started: 09/11/2015
+Updated: 04/26/2018
+Journal: Phys. Rev. Applied 
+Notes: Yang18p044038.pdf
+=====================================================================
+R246
+First principles studies of the local structure and relaxor behavior of
+Pb(Mg1/3Nb2/3)O3-PbTiO3-derived ferroelectric perovskite solid solutions
+RGA: (Hengxin Tan), HT, IG, AMR
+Status: published 05/01/2018
+BICO: (none)
+Started: 04/26/2017
+Updated: 05/01/2018
+Journal: PRB
+Notes: Tan18p174101.pdf
+========================================================================
+R286
+Reply to “Comment on ‘Ultrafast terahertz-field-driven ionic response in ferroelectric BaTiO3’ ”
+RGA: SL, YQ, AMR (Lindenberg, Nelson, Martin)
+status: published 06/15/2018
+BICO: (none)
+Started: 06/01/2018
+Updated: 06/15/2018
+Journal: PRB
+Notes: Chen18p226102.pdf
+=====================================================================
+R270
+Control of the polarization of ferroelectric capacitors by the concurrent
+action of light and adsorbates
+RGA: AMR (Pep Fontcuberta, Fanmao Liu, Ignasi Fina Martinez)
+status: published 06/18/2018
+BICO: (none)
+Started: 11/01/2017
+Updated: 06/18/2018
+Journal: ACS Appl. Mat. & Int.
+Notes: am-2018-01297d Liu18p23968.pdf
+========================================================================
+R283
+Seeing the forest and the trees
+RGA: HT, IG, AMR
+Status: published 06/25/2018
+BICO: (none)
+Started: 04/16/2018
+Updated: 06/25/2018
+Journal: Nat. Mat.
+Notes: Takenaka18p657.pdf
+========================================================================
+R245
+Phonon influence on bulk photovoltaic effect in the ferroelectric semiconductor GeTe
+RGA: (Shi-Jing Gong), FZ, AMR
+Status: published 07/03/2018
+BICO: (none)
+Started: 3/30/2017
+Updated: 07/03/2018
+Journal: PRL
+Notes: Gong18p017402.pdf LH15749.
+========================================================================
+R269
+Transition Metal Inverse-Hybrid Perovskites
+RGA: JG,AMR
+status: published 07/05/2018
+BICO: (none)
+Started: 10/1/2017
+Updated: 07/05/2018
+Journal: J Mat Chem A
+Notes: Gebhardt18p14560.pdf
+========================================================================
+R212
+Enhancing ferroelectric photovoltaic effect by polar order engineering
+RGA: FZ, LZT, AMR (Lu You, Junling Wang)
+Status: published 07/06/2018
+BICO: (none)
+Started: 02/12/2016
+Updated: 07/06/2018
+Journal: Science Advances
+Notes: You18p3438.pdf
+=====================================================================
+R232
+Wallpaper Fermions and the nonsymmorphic Dirac Insulator
+RGA: BJW, (Barry Bradlyn, Zhijun Wang, Princeton, Jennifer Cano, Princeton), YK, 
+HDK, AMR, CLK, (Andrei Bernevig, Princeton)
+Status:  published 07/20/2018
+BICO: (none)
+Started: 08/22/2016
+Updated: 07/20/2018
+Journal: Science
+Notes: Wieder18p246.pdf
+====================================================================
+R253
+Long-lived polarization memory in the electronic states of lead-halide
+perovskites from local structural dynamics
+RGA: LZT, AMR (Jasmine Rivett, Felix Deschler)
+status: published 08/30/2018
+BICO: (none)
+Started: 06/20/2017
+Updated: 08/30/2018
+Journal: Nat. Comm.
+Notes: Rivett18p3531.pdf
+========================================================================
+R241
+Dirac-Weyl semimetal: Coexistence of Dirac and Weyl fermions in polar hexagonal ABC crystals
+RGA: (HG Heng Gao), YK, CLK, EJM, (WR Wei Ren), AMR
+Status: published 09/05/2018
+BICO: (none)
+Started: 11/30/2016
+Updated: 09/05/2018
+Journal: PRL
+Notes: LP15557.  Editors' suggestion. Gao18p106404.pdf
+========================================================================
+R233
+Doping of BiFeO$_3$: A comprehensive study on substitutional doping
+RGA: JG, AMR
+Status: published 09/05/2018
+BICO: (none)
+Started: 08/24/2016
+Updated: 09/05/2018
+Journal:  PRB
+Notes:  BM13035 Editor's suggestion. Gebhardt18p125202.pdf
+====================================================================
